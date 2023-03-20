@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    background-image: url(desetikorunar\ napis.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 200px;
+    font-family: helvetica;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: helvetica;
+}    
+a{
+    text-decoration: none;
+    padding: 5px;
+    font-size: x-large;
+    font-family: Helvetica;
+    font-weight: 500;
+    color: white;
+
+}
+.photos{
+    display: flex;
+    justify-content: center;
+}
+img{
+    padding: 5px;
+    margin-top: 400px;
+}
